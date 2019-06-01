@@ -11,5 +11,5 @@ Short video created using blender
   <li>Go into file->user preferences->system<br>
     anf find compute device choose your graphics card</li>
   <li>Save user settings</li>
-  ![](https://github.com/JankDev/GraphicsProject/blob/master/blender-settings.png)
+  ![settings](https://github.com/JankDev/GraphicsProject/blob/master/blender-settings.png)
 </ol>
