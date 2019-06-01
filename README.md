@@ -16,7 +16,7 @@ Short video created using blender
   <img src="output-dir.png" width="700"/>
   <li>Select your gpu in device and make sure the starting frame is set to 1100</li>
   <li>Click animation</li>
-  <img src=render.png" width="700"/>
-                                  <li>Wait</li>
+  <img src="render.png" width="700"/>
+  <li>Wait</li>
   
 </ol>
