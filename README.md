@@ -13,5 +13,10 @@ Short video created using blender
   <li>Save user settings</li>
   <img src="https://github.com/JankDev/GraphicsProject/blob/master/blender-settings.png" width="700"/>
   <li>Choose the output directory</li>
+  <img src="output-dir.png" width="700"/>
+  <li>Select your gpu in device and make sure the starting frame is set to 1100</li>
+  <li>Click animation</li>
+  <img src=render.png" width="700"/>
+                                  <li>Wait</li>
   
 </ol>
